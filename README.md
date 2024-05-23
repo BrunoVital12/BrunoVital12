@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, Eu sou Bruno Vital. 👋
 
-<!--
-**BrunoVital12/BrunoVital12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por tecnologia e programação. Aqui você encontrará alguns dos meus projetos pessoais e experimentos de aprendizado.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo **Java** e outras tecnologias de back-end.
+- 💼 Sou estudante de Segurança da Informação, mas com interesse também em programação.
+- ☁️ Durante meu estágio na Compass UOL, pude tirar a certificação AWS Cloud Practitioner.
+- 📫 Você pode me encontrar em [Meu Email](mailto:bruvital2010@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/bruno-vital-machioni-de-oliveira-2a8330259/).
+
+## 🛠️ Tecnologias & Ferramentas
+
+- **Linguagens:** Java, Python, C#.
+- **Ferramentas de Desenvolvimento:** VS Code, Git, Docker.
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=BrunoVital12&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoVital12&layout=compact&theme=radical)
+
+
+## 🌐 Conecte-se Comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-vital-machioni-de-oliveira-2a8330259/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+
+⭐️ Deixe uma estrela nos repositórios que você gostou!
+
