@@ -9,10 +9,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um estudante apaixonado por tecnologia e 
 - ☁️ Durante meu estágio na Compass UOL, pude tirar a certificação AWS Cloud Practitioner.
 - 📫 Você pode me encontrar em [Meu Email](mailto:bruvital2010@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/bruno-vital-machioni-de-oliveira-2a8330259/).
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias
 
 - **Linguagens:** Java, Python, C#.
-- **Ferramentas de Desenvolvimento:** VS Code, Git, Docker.
 
 ## 📈 Estatísticas do GitHub
 
